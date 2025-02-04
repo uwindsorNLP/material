@@ -1,0 +1,22 @@
+Worldnews on Reddit from 2008 to Today
+------------------------------------------------------------------
+DOWNLOAD
+Direct Download from Google Drive:
+https://drive.google.com/file/d/1u9bsyE9A3pFWrbyv-Iu3NOXhM60Z49F2/view?usp=drive_link
+
+Kaggle Link:
+https://www.kaggle.com/datasets/rootuser/worldnews-on-reddit?resource=download
+------------------------------------------------------------------
+ABOUT
+File_Name: reddit_worldnews_start_to_2016-11-22.csv
+Size: 82.2 MB after extraction
+Structure: The dataset contains following columns.
+
+time_created - a Unix timestamp of the submission creation date
+date_created - creation time in %Y-%m-%d
+up_votes - how often the submission was upvoted
+down_votes - how often the submission was downvoted
+title - the title of the submission
+over_18 - if the submission is for mature persons
+author - the reddit username of the author
+subreddit - this is always 'worldnews'
