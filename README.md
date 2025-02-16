@@ -1,5 +1,5 @@
 # 🚀 In this repo 
-A repo to store and share workshop materials (notebooks, data, slides, ...)
+We store and share workshop materials (notebooks, data, slides, ...)
 
 ## Phase 1️⃣
 * NLP, Tasks and LLMs
