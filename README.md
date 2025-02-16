@@ -8,11 +8,11 @@ We store and share workshop materials (notebooks, data, slides, ...)
 
 ## Phase 2️⃣
 * Transformers
-* Hugging Face
+* Hugging Face 🤗
 * Compettition 2 (TBT)
 
 ## Phase 3️⃣
-* LLaMa
+* LLaMa 🦙
 * RAG
 * Compettition 3 (?)
 
